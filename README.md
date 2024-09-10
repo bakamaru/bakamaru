@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey, It's me Binod Tamang from kathmandu, Nepal and I'm a backend developer.
+Namaste,Lhyasso,Phyaphulla, It's me Binod Tamang from kathmandu, Nepal and I'm a backend developer.
+With 10+ years of experience in .NET software development, I have developed a strong foundation in designing, developing, and maintaining complex applications. I am passionate about delivering high-quality work and am committed to exceeding client expectations :). 
 
 
 ## 🌐 Socials:
